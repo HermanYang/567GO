@@ -1,0 +1,19 @@
+{
+        "home_section_image_urls": [
+                "", 
+                "", 
+                "", 
+                ""
+        ], 
+
+        "institute_introduction_section_url": "http://121.199.47.174/institute_brief_introduction", 
+        "institute_news_section_url": "http://121.199.47.174/academy_news", 
+        "institute_moments_section_url": "http://121.199.47.174/moments", 
+        "frequent_questions_section_url": "http://121.199.47.174/frequence_questions", 
+        "course_section_url": "http://121.199.47.174/available_courses", 
+        "recruitment_news_section_url": "http://121.199.47.174/recruitment_news", 
+        "online_sign_up_section_url": "http://121.199.47.174/signup",
+        "contact_us_section_url": "http://121.199.47.174/contact_us", 
+
+        "photo_section_data": [] 
+}

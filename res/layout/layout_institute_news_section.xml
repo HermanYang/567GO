@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_institute_news_section"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/container_padding" >
+
+    <com.app567go.view.Html5WebView
+        android:id="@+id/webView_institute_news"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

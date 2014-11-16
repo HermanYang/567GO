@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- global -->
+    <dimen name="container_padding">4dp</dimen>
+    
+    
+    <dimen name="cycleViewPager_page_margin">10dp</dimen>
+    <dimen name="indicatorView_item_margin">10dp</dimen>
+    <dimen name="indicatorView_item_size">5dp</dimen>
+
+    <dimen name="news_image_subscript_bar_height">25dp</dimen>
+    
+    <dimen name="split_view_width">1dp</dimen>
+    
+    <!-- news section-->
+    <dimen name="news_item_spacing">5dp</dimen>
+    <dimen name="news_section_institution_news_title_text_size">12sp</dimen>
+    <dimen name="news_section_recruitment_news_title_text_size">18sp</dimen>
+    <dimen name="news_section_recruitment_news_item_size">120dp</dimen>
+    <dimen name="news_section_news_thumbnail_size">50dp</dimen>
+    
+    <!-- photo item -->
+    <dimen name="photo_item_padding_left">10dp</dimen>
+    <dimen name="photo_item_padding_top">15dp</dimen>
+    
+    <dimen name="photo_item_width">75dp</dimen>
+    <dimen name="photo_item_height">75dp</dimen>
+    
+    <!-- shop section -->
+    <dimen name="shop_section_text_size">18sp</dimen>
+    <dimen name="shop_section_description_text_margin_left">10dp</dimen>
+    <dimen name="shop_section_btn_width">280dp</dimen>
+    <dimen name="shop_section_margin_top">20dp</dimen>
+    
+    
+</resources>

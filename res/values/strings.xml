@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- naviagtion bar -->
+    <string name="app_name">567GO</string>
+    <string name="user_name_default">请登录</string>
+    <string name="logo_image_description">567go logo</string>
+    <string name="login_image_description">login</string>
+
+    <!-- navigation title -->
+    <string name="navigation_title_home">首页(HOME)</string>
+    <string name="navigation_title_institute_introduction">学院介绍</string>
+    <string name="navigation_title_institute_news">学院新闻</string>
+    <string name="navigation_title_institute_moment">学院风采</string>
+    <string name="navigation_title_frequent_question">常见问题</string>
+    <string name="navigation_title_course">课程介绍</string>
+    <string name="navigation_title_mentors">导师团队</string>
+    <string name="navigation_title_recruitment_news">招聘信息</string>
+    <string name="navigation_title_online_sign_up">在线报名</string>
+    <string name="navigation_title_contact_us">联系我们</string>
+
+    <!-- dialog string -->
+    <string name="quit_dialog_title">退出</string>
+    <string name="quit_dialog_message">你确定要退出程序吗？</string>
+    <string name="quit_dialog_positive_text">确定</string>
+    <string name="quit_dialog_negative_text">取消</string>
+
+    <!-- login page -->
+    <string name="user_name">帐号</string>
+    <string name="password">密码</string>
+    <string name="user_name_hint">请输入帐号</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="login_description">登录</string>
+    <string name="register_description">注册</string>
+    <string name="network_disconnected">注意：您的网络已断开连接！</string>
+    <string name="url_error">URL无法解析</string>
+
+    <!-- loding -->
+    <string name="loading_background_data_title">请耐心等待</string>
+    <string name="loading_background_data_message">正在加载数据……</string>
+
+</resources>
